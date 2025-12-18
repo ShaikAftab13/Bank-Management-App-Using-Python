@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Aftab",
+        "age": 18,
+        "email": "af@gmail.com",
+        "pin": 1234,
+        "account_number": 1234,
+        "balance": 0
+    },
+    {
+        "name": "noob",
+        "age": 22,
+        "email": "dummy@gmail.com",
+        "pin": 1234,
+        "account_number": "U9UH7C78",
+        "balance": 0
+    },
+    {
+        "name": "dumb",
+        "age": 30,
+        "email": "dumb@gmail.com",
+        "pin": 2000,
+        "account_number": "YMN87ESJ",
+        "balance": 0
+    },
+    {
+        "name": "nigga",
+        "age": 29,
+        "email": "nigga@reddiff.com",
+        "pin": 2900,
+        "account_number": "8XZOG65V",
+        "balance": 0,
+        "transactions": []
+    },
+    {
+        "name": "bhai",
+        "age": 34,
+        "email": "bhai@f.com",
+        "pin": 9999,
+        "account_number": "EV6H718U",
+        "balance": 0,
+        "transactions": []
+    }
+]
