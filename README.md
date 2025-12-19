@@ -4,8 +4,8 @@ Users can create accounts, deposit and withdraw money, view balances, update det
 How to Run the App:
 
 
-pip install streamlit
-python -m streamlit run app.py
+Step 1 :pip install streamlit
+Step 2 : python -m streamlit run app.py
 
 
 Once started, the app will automatically open in your browser and display the interactive banking dashboard.
