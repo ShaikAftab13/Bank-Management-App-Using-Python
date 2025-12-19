@@ -40,5 +40,21 @@
         "account_number": "EV6H718U",
         "balance": 0,
         "transactions": []
+    },
+    {
+        "name": "uday",
+        "age": 18,
+        "email": "uday@gmail.com",
+        "pin": 1234,
+        "accountNo.": "4Y4^vu0",
+        "balance": 0
+    },
+    {
+        "name": "amresh",
+        "age": 19,
+        "email": "amresh@gmail.com",
+        "pin": 1234,
+        "accountNo.": "&H217FO",
+        "balance": 0
     }
 ]
