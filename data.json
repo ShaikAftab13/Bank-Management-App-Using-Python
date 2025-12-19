@@ -8,29 +8,12 @@
         "balance": 0
     },
     {
-        "name": "noob",
-        "age": 22,
-        "email": "dummy@gmail.com",
-        "pin": 1234,
-        "account_number": "U9UH7C78",
-        "balance": 0
-    },
-    {
-        "name": "dumb",
+        "name": "dummy",
         "age": 30,
-        "email": "dumb@gmail.com",
+        "email": "dummy@gmail.com",
         "pin": 2000,
         "account_number": "YMN87ESJ",
         "balance": 0
-    },
-    {
-        "name": "nigga",
-        "age": 29,
-        "email": "nigga@reddiff.com",
-        "pin": 2900,
-        "account_number": "8XZOG65V",
-        "balance": 0,
-        "transactions": []
     },
     {
         "name": "bhai",
